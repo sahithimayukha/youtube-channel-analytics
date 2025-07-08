@@ -43,6 +43,11 @@ This project is a complete data analytics pipeline that collects, stores, analyz
 
 ![Dashboard](./dashboard_preview.png)
 
+
+This Power BI dashboard provides real-time analytics on a YouTube channel's performance, including KPIs, engagement, video type analysis, and heatmap of best posting times.
+
+🔗 Download the Power BI file: [YouTube_Channel_Insights.pbix](YouTube_Channel_Insights.pbix)
+
 ---
 
 ## 📌 Key Metrics Tracked
