@@ -37,6 +37,12 @@ This project is a complete data analytics pipeline that collects, stores, analyz
 
 ---
 
+## 📷 Power BI Dashboard Preview
+
+> Preview of the main insights page from the Power BI report.
+
+![Dashboard](./dashboard_preview.png)
+
 ---
 
 ## 📌 Key Metrics Tracked
